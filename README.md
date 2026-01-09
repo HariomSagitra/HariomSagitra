@@ -1,11 +1,11 @@
-<!-- 🌟 Animated Gradient Header -->
+<!-- ===== PROFILE HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Hariom%20Sagitra%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hello%2C%20I'm%20Hariom%20Sagitra%20👋&fontSize=36&fontAlignY=35&color=gradient" />
 </p>
 
-<!-- ✨ Animated Typing Tagline -->
+<!-- ===== TYPING TAGLINE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Learning+by+Building+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 📍 **Indore, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer (MERN Stack)**  
-🎯 Strong foundation in **OOP, DBMS & DSA**  
-🎨 Interested in **UI/UX, scalable web apps & clean code**  
-🚀 Passionate learner, building real-world projects  
+📚 Knowledge of **OOP, DBMS, DSA**  
+🎨 Interested in **UI/UX & clean frontend architecture**  
+🚀 Learning by building real-world projects  
 
 ---
 
@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hariom-sagitra-41627b294/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/HariomSagitra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:hariomsagitra750910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -38,24 +38,19 @@
 
 ## 💼 Experience
 
-🟢 **MERN Stack Training** – Dr. Reddy’s Foundation  
-🔵 **Full Stack Internship (6 Months)** – Future Multimedia  
+- 🟢 **MERN Stack Training** – Dr. Reddy’s Foundation  
+- 🔵 **Full Stack Internship (6 Months)** – Future Multimedia  
 
 ---
 
-## 🧰 Tech Toolbox
-
-### 🏗️ Core CS
-- Object Oriented Programming (OOP)
-- Database Management System (DBMS)
-- Data Structures & Algorithms (DSA)
+## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
 - C++
 - JavaScript
 - TypeScript
 
-### 🌐 Web Technologies
+### 🌐 Web
 - HTML5
 - CSS3
 - MongoDB
@@ -69,7 +64,7 @@
 - Tailwind CSS
 - Bootstrap
 
-### 🛠️ Tools
+### 🛠 Tools
 - Git & GitHub
 - Docker
 - Postman
@@ -94,4 +89,4 @@
 ---
 
 ## ⚡ Fun Fact
-> *“Code. Debug. Learn. Repeat. 🚀”*
+> *“Consistency beats talent when talent doesn’t work consistently.” 🚀*
