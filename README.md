@@ -1,11 +1,15 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= ANIMATED HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hariom%20Sagitra&fontSize=36&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Hariom%20Sagitra&fontSize=38&fontAlignY=35&color=gradient" />
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+JavaScript+Developer;MERN+Stack+Learner;Building+Clean+%26+Scalable+Web+Apps;Learning+Every+Day+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <b>Full-Stack JavaScript Developer | MERN Stack Learner</b><br/>
-  <span>Indore, Madhya Pradesh, India</span>
+  <b>📍 Indore, Madhya Pradesh, India</b>
 </p>
 
 ---
@@ -13,7 +17,8 @@
 ## 👨‍💻 About Me
 
 <p>
-I am a passionate <b>Full-Stack JavaScript Developer</b> focused on building clean, scalable, and user-friendly web applications using the <b>MERN stack</b>.
+I am a passionate <b>Full-Stack JavaScript Developer</b> focused on building
+<b>clean, scalable, and user-friendly web applications</b> using the <b>MERN stack</b>.
 </p>
 
 <ul>
@@ -38,13 +43,6 @@ I am a passionate <b>Full-Stack JavaScript Developer</b> focused on building cle
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 💼 Experience & Training
-
-- 🟢 <b>MERN Stack Training</b> – Dr. Reddy’s Foundation  
-- 🔵 <b>Full Stack Internship (6 Months)</b> – Future Multimedia  
 
 ---
 
@@ -83,23 +81,15 @@ I am a passionate <b>Full-Stack JavaScript Developer</b> focused on building cle
 
 ---
 
-## 📌 What I Focus On
+## 🎯 Current Focus
 
-✔ Clean & maintainable code  
-✔ Responsive UI design  
-✔ Strong fundamentals  
-✔ Real-world MERN projects  
-✔ Continuous learning  
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Become strong in <b>React & Node.js</b>
-- 🧩 Improve <b>DSA & problem solving</b>
-- 🌐 Build a solid <b>developer portfolio</b>
+✔ Strengthening MERN stack skills  
+✔ Writing clean & maintainable code  
+✔ Building responsive user interfaces  
+✔ Improving problem-solving skills  
+✔ Growing as a professional developer  
 
 ---
 
 ## ⚡ Fun Fact
-> <i>“Consistency beats talent when talent doesn’t work consistently.” 🚀</i>
+> <i>“Small daily improvements lead to big results.” 🚀</i>
