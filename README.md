@@ -56,12 +56,16 @@ Git, GitHub, Docker, Postman, Figma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HariomSagitra&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomSagitra&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HariomSagitra&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomSagitra&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 ---
 
